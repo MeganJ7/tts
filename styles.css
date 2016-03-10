@@ -1,0 +1,40 @@
+* {
+	/*background-color: #19B5FE;*/
+	font-family: 'Ubuntu', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+div {
+	height: 50px;
+	width: 100px;
+	border: 2px solid blue;
+	border-radius: 5px;
+	display: block;
+}
+
+#one {
+	background-color: #FF0000;
+}
+
+#two {
+	background-color: #0000FF;
+}
+
+#three {
+	background-color: #FFD700;
+}
+
+#four {
+	background-color: #308014;
+.class_test p {
+	font-size: 22px;
+	font-weight: 700;
+	background-color: pink;
+}
+#id_test, #id_test2{
+	font-size: 40px; 
+}
+#id_test2 { 
+    background-color: pink;
+} 
